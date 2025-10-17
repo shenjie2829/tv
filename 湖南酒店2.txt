@@ -1,4 +1,4 @@
-CCTV-1综合,http://175.10.171.184:10999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1刘猷祥,http://175.10.171.184:10999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2财经,http://175.10.171.184:10999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3综艺,http://175.10.171.184:10999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4国际,http://175.10.171.184:10999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
