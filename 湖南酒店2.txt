@@ -72,4 +72,4 @@ CCTV13,http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=
 南县新闻,http://183.215.134.239:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南教育,http://183.215.134.239:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-潇湘电影,http://183.215.134.239:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影高清,http://183.215.134.239:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
